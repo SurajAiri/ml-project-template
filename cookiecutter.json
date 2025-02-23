@@ -1,0 +1,10 @@
+{
+    "project_name": "my_ml_project",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Suraj Airi",
+    "email": "surajairi.ml@gmail.com",
+    "description": "A machine learning project template",
+    "python_version": "3.12",
+    "package_manager": "uv",
+    "license": "MIT"
+}
